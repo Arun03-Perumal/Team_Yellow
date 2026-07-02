@@ -19,10 +19,7 @@ This project uses AI to collect, process, and analyze workforce data for intelli
 - Docker
 - Kubernetes
 
-## Team Members
-- Your Name
-- Collaborator 1
-- Collaborator 2
+
 
 ## How to Run
 1. Clone the repository.
