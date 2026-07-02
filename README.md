@@ -174,11 +174,6 @@ This project is released under the MIT License. See the LICENSE file for additio
 
 ---
 
-## Author
-
-**Preethi S**
-
-AI & Full Stack Developer
 
 ---
 
